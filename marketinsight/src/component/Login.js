@@ -8,7 +8,7 @@ const Login = () => {
               Login{" "}
             </h1>
             <div className="m-4 p-2">
-              <label className="text-xs">Usernamee</label>
+              <label className="text-xs">Username</label>
               {/* <div class="h-1 w-1 bg-red-400 p-1 absolute box-border top-1/2 left-1 -translate-y-1/2 text-orange-200 ">
                 asdf
               </div> */}
